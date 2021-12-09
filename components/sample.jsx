@@ -2,7 +2,7 @@ import * as react from "react";
 
 const sampleDiv = (props) => {
     return (
-        <div> Hello {props.value}</div>
+        <div> Hello {props.value} version-2</div>
     )
 }
 
