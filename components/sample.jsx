@@ -5,3 +5,5 @@ const sampleDiv = (props) => {
         <div> Hello {props.value}</div>
     )
 }
+
+export default sampleDiv;
